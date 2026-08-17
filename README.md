@@ -309,5 +309,6 @@ This project develops a machine learning pipeline for electricity consumption fo
 
 Historical electricity consumption, time-based features, rolling statistics, EMA, trend features, historical energy features, and weather information are used to provide the models with relevant information for forecasting.
 
-XGBoost, LightGBM, and CatBoost are trained independently and their predictions and feature-importance results are stored for comparison and analysis.#   M u l t i - H o r i z o n - E l e c t r i c i t y - F o r e c a s t i n g - S y s t e m  
+XGBoost, LightGBM, and CatBoost are trained independently and their predictions and feature-importance results are stored for comparison and analysis.#   M u l t i - H o r i z o n - E l e c t r i c i t y - F o r e c a s t i n g - S y s t e m 
+ 
  
