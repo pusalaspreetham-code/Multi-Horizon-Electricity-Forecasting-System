@@ -1,0 +1,25 @@
+@"
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+.env
+
+catboost_info/
+*.tfevents
+tmp/
+
+.vscode/
+.idea/
+
+.DS_Store
+
+*.log
+"@ | Set-Content .gitignore
+
+data/processed
