@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Electricity Consumption Forecasting Using Machine Learning
 
 ## Overview
